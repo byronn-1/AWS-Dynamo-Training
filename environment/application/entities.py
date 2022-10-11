@@ -1,3 +1,6 @@
+
+
+#Create classes for User, Game and Game Mapping
 class User:
 
     def __init__(self, item):
